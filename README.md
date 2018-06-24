@@ -6,5 +6,5 @@ API testing with Jest...and only.
 
 ### To run the app:
 
-* Install dependencies by running ```yarn```
+* Run ```yarn``` to install the dependencies
 * Run ```yarn test``` to run the tests
