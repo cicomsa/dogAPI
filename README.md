@@ -2,7 +2,7 @@
 
 ### Project description
 
-API testing with Jest...and only.
+API testing with Jest...and only that.
 
 ### To run the app:
 
